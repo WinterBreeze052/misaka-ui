@@ -29,6 +29,12 @@ jobs:
       - name: Install modules
         run: pnpm install
 
+      - name: Print working directory
+        run: pwd
+
+      - name: Clean pnpm cache
+        run: pnpm store prune
+
       - name: Run Lint
         run: pnpm lint
 
