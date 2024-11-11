@@ -35,4 +35,4 @@ import Vue from 'vue' import SSYUI from 'ssy-ui-vite' const App = { template: `
 
 扫描下方二维码加入我们
 
-<!-- ![SSY](https://xxxxx.oss-cn-hangzhou.aliyuncs.com/IMG_5854.JPG) -->
+![SSY](https://gstatic.clewm.net/caoliao-resource/231117/a44fa42f_4b16ec36_1666157560.png)

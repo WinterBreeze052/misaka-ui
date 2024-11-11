@@ -1,5 +1,5 @@
 {
-  "name": "ssy-ui-misaka-vite-docs",
+  "name": "misaka-ui-docs",
   "type": "module",
   "version": "1.0.0",
   "private": true,
@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "@vitejs/plugin-vue-jsx": "catalog:",
+    "misaka-ui": "workspace:^",
     "vite": "catalog:"
   },
   "devDependencies": {
