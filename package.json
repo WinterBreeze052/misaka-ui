@@ -6,8 +6,8 @@
   "scripts": {
     "preinstall": "npx only-allow pnpm",
     "prepare": "husky",
-    "lint": "eslint \"./packages/**/{src,test}/**/*.{vue,ts,tsx,js,mjs,cjs}\"",
-    "lint:fix": "eslint \"./packages/**/{src,test}/**/*.{vue,ts,tsx,js,mjs,cjs}\" --fix",
+    "lint": "eslint \"./packages/**/*.{vue,ts,tsx,js,mjs,cjs}\"",
+    "lint:fix": "eslint \"./packages/**/*.{vue,ts,tsx,js,mjs,cjs}\" --fix",
     "test": "pnpm --dir ./packages/ui test",
     "test:coverage": "pnpm --dir ./packages/ui test:coverage",
     "dev": "pnpm --dir ./packages/ui dev",
