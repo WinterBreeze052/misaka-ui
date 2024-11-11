@@ -1,5 +1,5 @@
 {
-  "name": "misaka-ui-docs",
+  "name": "misaka-docs",
   "type": "module",
   "version": "1.0.0",
   "private": true,
@@ -15,7 +15,6 @@
   },
   "dependencies": {
     "@vitejs/plugin-vue-jsx": "catalog:",
-    "misaka-ui-monorepo": "workspace:^",
     "vite": "catalog:"
   },
   "devDependencies": {

@@ -7,7 +7,10 @@ const sidebar: DefaultTheme.Sidebar = {
     {
       text: '通用',
       collapsed: true,
-      items: [{ text: 'Button 按钮', link: '/components/button/' }],
+      items: [{ text: 'Button 按钮', link: '/components/button/', items: [
+        { text: '基础用法', link: '/components/button/#基础用法' },
+        { text: '图标按钮', link: '/components/button/#图标按钮' },
+      ] }],
     },
     { text: '导航' },
     { text: '反馈' },

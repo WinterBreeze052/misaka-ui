@@ -1,40 +1,40 @@
 {
-  "hash": "fec8f814",
-  "configHash": "64c7ce95",
-  "lockfileHash": "777dd87b",
-  "browserHash": "25758873",
+  "hash": "ccdff11e",
+  "configHash": "b2ae3b31",
+  "lockfileHash": "0f6a84e5",
+  "browserHash": "008a9455",
   "optimized": {
     "vue": {
-      "src": "../../../../../node_modules/.pnpm/vue@3.5.12_typescript@5.6.3/node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "src": "../../../../node_modules/.pnpm/vue@3.5.12/node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "df9e4f91",
+      "fileHash": "d4faa029",
       "needsInterop": false
     },
     "vitepress > @vue/devtools-api": {
-      "src": "../../../../../node_modules/.pnpm/@vue+devtools-api@7.6.3/node_modules/@vue/devtools-api/dist/index.js",
+      "src": "../../../../node_modules/.pnpm/@vue+devtools-api@7.5.2/node_modules/@vue/devtools-api/dist/index.js",
       "file": "vitepress___@vue_devtools-api.js",
-      "fileHash": "3a9d4b63",
+      "fileHash": "e4dc9478",
       "needsInterop": false
     },
     "vitepress > @vueuse/core": {
-      "src": "../../../../../node_modules/.pnpm/@vueuse+core@11.2.0_vue@3.5.12_typescript@5.6.3_/node_modules/@vueuse/core/index.mjs",
+      "src": "../../../../node_modules/.pnpm/@vueuse+core@11.1.0_vue@3.5.12/node_modules/@vueuse/core/index.mjs",
       "file": "vitepress___@vueuse_core.js",
-      "fileHash": "ec328dd5",
+      "fileHash": "37b43914",
       "needsInterop": false
     },
     "vue-demi": {
-      "src": "../../../../../node_modules/.pnpm/vitepress@1.5.0_@algolia+client-search@5.13.0_@types+node@22.9.0_postcss@8.4.48_search-insigh_hngfxggldmd6hh77sqnvqb77rm/node_modules/vitepress/lib/vue-demi.mjs",
+      "src": "../../../../node_modules/.pnpm/vitepress@1.4.1_@algolia+client-search@4.24.0_postcss@8.4.47_search-insights@2.17.2/node_modules/vitepress/lib/vue-demi.mjs",
       "file": "vue-demi.js",
-      "fileHash": "c204127c",
+      "fileHash": "0acb6a41",
       "needsInterop": false
     }
   },
   "chunks": {
-    "chunk-J2KROMNG": {
-      "file": "chunk-J2KROMNG.js"
+    "chunk-GCAV6GNE": {
+      "file": "chunk-GCAV6GNE.js"
     },
-    "chunk-G5ZIKNOO": {
-      "file": "chunk-G5ZIKNOO.js"
+    "chunk-7ZFURSA7": {
+      "file": "chunk-7ZFURSA7.js"
     },
     "chunk-PZ5AY32C": {
       "file": "chunk-PZ5AY32C.js"
